@@ -1,17 +1,17 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/F8k7dWhulwo
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1n4nZjzaya3a0t8H9gIevP11l61nQtunrAtP8WpVVvw0/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+Question Generation and Answering for exploring Digital Humanities collections
 
 Link to the paper:
-https://ieeexplore......
+https://aclanthology.org/2022.lrec-1.486.pdf
 
 Group Number:
-0
+7
 
 Individual Submitter:
-12345678 Name A
+20301078 Md Iftekhar Islam Tashik
